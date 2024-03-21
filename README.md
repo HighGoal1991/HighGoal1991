@@ -7,6 +7,7 @@ Cheers!
 
 Skills
 🔹 React | 8 years | 10
+
 🔹 Angular | 9 years | 10
 🔹 Node.js | 9 years | 10
 🔹 Laravel | 8 years | 10
